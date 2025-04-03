@@ -9,3 +9,7 @@ Q
 !contracts/material-tracking_.clar,3/d/3d61c7d060c82df9a5086045e90d5b04c12b91aa
 P
  tests/material-tracking_.test.ts,8/4/849c01d541fcfe6f3bfc3c38fe1f26d6aa56fdaa
+P
+ contracts/mine-verification.clar,b/5/b521968e9ef6f3155b48c4a2b8b5b5e5ee661aa3
+O
+tests/mine-verification.test.ts,9/1/9186908c21db094e472763e4066c2f2cfea58053
